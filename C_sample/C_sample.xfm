@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cm:consulmodel xmlns:cm="http://www.pure-systems.com/consul/model" cm:id="iUF3M4qzdjXlqo5F8" cm:version="1.7" cm:type="ps:fm"><cm:head><cm:properties><cm:property cm:id="iNr--qwPNiYNtsVyB" cm:type="ps:string" cm:invisible="true" cm:name="ps:name"><cm:constant cm:id="iX5bcaNBWtS9YY4bY" cm:type="ps:string">C_sample</cm:constant>
+</cm:property>
+<cm:property cm:id="iaG7fofGbHLQ1jR_Z" cm:type="ps:string" cm:invisible="true" cm:name="ps:author"><cm:constant cm:id="iC0mbcresQhJfhK7Z" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="inHr39RK3kfnVUcSJ" cm:type="ps:string" cm:invisible="true" cm:name="ps:version"><cm:constant cm:id="iMcTfkKhfzhP95gwr" cm:type="ps:string">1.0</cm:constant>
+</cm:property>
+<cm:property cm:id="i9F61Nw-j3tzPbe5G" cm:type="ps:datetime" cm:invisible="true" cm:name="ps:created"><cm:constant cm:id="iY5l4zhvgh4i_NC4j" cm:type="ps:datetime">2024-07-23T04:04:46.847Z</cm:constant>
+</cm:property>
+<cm:property cm:id="iiAzn5d3WFRjbfL5y" cm:type="ps:mimetype" cm:invisible="true" cm:name="ps:DescriptionType"><cm:constant cm:id="iMDIPQmIH35NQiCNK" cm:type="ps:mimetype">text/html</cm:constant>
+</cm:property>
+<cm:property cm:id="ioImsNnY06WRB7-l4" cm:type="ps:natures" cm:invisible="true" cm:fixed="true" cm:container="ps:list" cm:name="ps:ModelNature"><cm:constant cm:id="iUcuJ-qZREsT_P2ju" cm:type="ps:natures">com.ps.consul.eclipse.ui.pvimport.csv.ImportNature</cm:constant>
+</cm:property>
+</cm:properties>
+</cm:head>
+<cm:elements cm:rootid="iynZDDd55ELe8es5i"><cm:element cm:id="iynZDDd55ELe8es5i" cm:name="Features" cm:type="ps:feature" cm:class="ps:feature" cm:default="on"><cm:relations cm:id="iEGZSdSX-A8Q3tIZC12HT2eWjMci" cm:class="ps:children"><cm:relation cm:id="iuKXPgCOPRmb2MApJfZ1eUvjY7-l" cm:type="ps:mandatory"><cm:target cm:id="iyE4JuQv-WwxpGXqbXeuKOMoInij">./i-OgQhw0bwPb9vlDs</cm:target>
+</cm:relation>
+<cm:relation cm:id="iIR7LE01EywMu8qXXzzEw0SzB2uj" cm:type="ps:optional"><cm:target cm:id="iYoVzGtn_HfTMnSHz0ZUiIDFkXOc">./isUZlq8YDoJwJ_h9k</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="i__r0mJIiptlc7UAgre6-Iy5UZSF329JObq6oA27-" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="iwFkV5ZXsUa8hXEzu" cm:type="ps:string">21683936</cm:constant>
+<cm:constant cm:id="iD3Gi8pB28F4UKjWSXCvvMzLzR6VR9ps0erWSvfmJ" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="iRAquIOhb__KzfXdW1TV7z2R6OkLPoZotgbIihrMj" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="ie2EP8n0foN4JqpTb" cm:type="ps:datetime">2024/07/22 0:49:08 UTC</cm:constant>
+<cm:constant cm:id="i1DicseerLjfH6E6UbaeXcG0ntex1eHC3XmwfLjBw" cm:type="ps:datetime">2024-07-23T04:04:46.847Z</cm:constant>
+</cm:property>
+<cm:property cm:id="iq02TXmiI-p6oIOod5-cWrewftKLzbGZC2TAwV7Bw" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="iQPK0wK3zF003Atmp" cm:type="ps:string">21683936</cm:constant>
+<cm:constant cm:id="iIOGOQkDx6ore8VF3LPfHlY39WS7-Mj9VMPwL2ngb" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="i4-sKEhNzAMEhu1kINzJ4ywkcfXYSlYI42ngbiIz2" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="izzb8tC1kl7_rAz0D" cm:type="ps:datetime">2024/07/22 2:08:14 UTC</cm:constant>
+<cm:constant cm:id="iCh2DfraqisvfXSVRExPAjcFNfXz2vL_V9pGyBwZm" cm:type="ps:datetime">2024-07-23T04:04:46.847Z</cm:constant>
+</cm:property>
+<cm:property cm:id="i-FseFxSRXChb29GiV7IiAgL5PQWCOA2TpJmd2DI4" cm:type="ps:string" cm:invisible="true" cm:fixed="true" cm:readonly="true" cm:name="csvimport:configuration:settings"><cm:constant cm:id="iompba0eo_K4-n-wP" cm:type="ps:string">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;settings colsep=&quot;;&quot; csvfile=&quot;C:\Users\21683936\Desktop\階乗計算フューチャーモデル.csv&quot; txtsep=&quot;&amp;quot;&quot;/&gt;</cm:constant>
+</cm:property>
+<cm:property cm:id="i79XPy0a_sYCxQhon" cm:type="ps:natures" cm:invisible="true" cm:fixed="true" cm:name="ps:ModelNature"><cm:constant cm:id="i3e3YbXyUXaN_jG-l" cm:type="ps:natures">com.ps.consul.eclipse.ui.pvimport.csv.ImportNature</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="ifpD1PKxQ2VHeXNBR" cm:mimetype="text/plain" cm:encoding="utf-8">階乗計算プログラムのフューチャー</cm:mimedesc>
+</cm:vname>
+</cm:element>
+<cm:element cm:id="i-OgQhw0bwPb9vlDs" cm:name="Version" cm:type="ps:feature" cm:class="ps:feature" cm:default="on"><cm:relations cm:id="ig0T2WX2ZNZLI3VfCamgo7fVQzMb" cm:class="ps:parents"><cm:relation cm:id="iGXi9nBTBP6nr7ib6iZLAElQPWAf" cm:type="ps:parent"><cm:target cm:id="il-YH6mV-aQpuykCtm9UMsNuUWug">./iynZDDd55ELe8es5i</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="iQA_F29ZmH4XCG4T7_p5EcG5ofXB2_pGy5UMj5EdW" cm:type="ps:string" cm:fixed="true" cm:name="Version"><cm:constant cm:id="iCNcqr0qKerWC-VaGmtZSyMzMquI49VTBaqdGvLDN" cm:type="ps:string"></cm:constant>
+</cm:property>
+<cm:property cm:id="iLzbqlsHiptpd4UKjIyAgRQ6E0TE3seyMot6oOkRk" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="iOkTRK5Hy09K5YSURv1GOseAgpJpJic7-QAu1ca8F" cm:type="ps:datetime">2024/07/22 2:43:54 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iGyw1bq5-__JySBZSF3wLWm2TTlDhv1Fhy2aWgrNP" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="iC3bqFNwfkcJi8Fwv3TRQt0Bwfb39Bg2T1nChZmba" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="iXSaG9p9_wvdG_Veb9pSBy2ksFN5-XCqu9FrKcGhX" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="iZmSBRQfH0nhriYaqrumZVBURQ6vLbGSlW8dq1DRQ" cm:type="ps:datetime">2024/07/22 2:06:46 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iFxotPkjcuLdqaWlcgXhX_FotBwptisFxW87UdqVB" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="iJO7oGiKjbq3TpZPQisjcnJ8Fks6U0nbayw-pIijc" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="iqlxRwbyQkMBgbFfx" cm:mimetype="text/plain" cm:encoding="utf-8">プログラムバージョン</cm:mimedesc>
+</cm:vname>
+</cm:element>
+<cm:element cm:id="isUZlq8YDoJwJ_h9k" cm:name="IntermediateResults" cm:type="ps:feature" cm:class="ps:feature"><cm:relations cm:id="ii-5K1oxzUtyIJ-eVJqKEOAebBOa" cm:class="ps:parents"><cm:relation cm:id="ibsQNr673DOOg45wKkDOs-hddZmc" cm:type="ps:parent"><cm:target cm:id="ic3hNPLY_kSJP4deNpYIAuoG7emj">./iynZDDd55ELe8es5i</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:relations cm:id="isO7cumOnoW9B1rHX3e75tOcNsed" cm:class="ps:children"><cm:relation cm:id="i1FVT1Tp1sjShefeFq6X8SVvWDzb" cm:type="ps:alternative"><cm:target cm:id="iOQQsZkWdR87ScKX0FUPnTaAof6j">./imUuPuTmBvPJvbs0-</cm:target>
+<cm:target cm:id="iO5Z3BmWikjw6h31nQAy-KhmTZLp">./iEs2tboEAE36qZxq6</cm:target>
+<cm:target cm:id="idjgYVZZ7TYvos3HAzN7HqemZ8Hi">./i5EJBvSHx0OCXbkTm</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="i_pr09VdGdayMlYod3D4-z229aGU7ksYCeXhHDhod" cm:type="ps:string" cm:fixed="true" cm:name="Format"><cm:constant cm:id="iBM5oK5Fxls3DygwLMPMzVRerZSPACxJiMPVl-_YS" cm:type="ps:string">number; formula; sentence</cm:constant>
+</cm:property>
+<cm:property cm:id="ituKj1D29vLpZKjvv5o2nbWURuLS7zg-FerXCkYaG" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="iBwIOENrKsuX8O6jsjY5EB26-6oSRqeNP_p2TwfyM" cm:type="ps:datetime">2024/07/22 2:24:46 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iVBhXebR6pdr02D8___1DgbL5s0JyTl4oEh1Tisre" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="iiYM5seV70Dmt-FaGbaHiHOu1AgrewvbGkYF34-0T" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="izMt0C3OkeHVRfXPAuvV7P6AwGils8FhXw1tueX39" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="i2DN50DD3B2nd7E9_AgoZ4oOQOA8_Fh5UkYVlgX7U" cm:type="ps:datetime">2024/07/22 2:08:14 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="ibWBglckI_pTBisT7EhfbjYywufFNZSksrKKPPQeH" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="iWC__1Dntzw_FbWhHxLIO4ETRsKwLyw3n_Fuvruvv" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="ipAbszVlvntcbDeEa" cm:mimetype="text/plain" cm:encoding="utf-8">中間結果表示</cm:mimedesc>
+</cm:vname>
+</cm:element>
+<cm:element cm:id="imUuPuTmBvPJvbs0-" cm:name="Number" cm:type="ps:feature" cm:class="ps:feature"><cm:relations cm:id="iirvksueZv07SIFtZ8376zfcpWjg" cm:class="ps:parents"><cm:relation cm:id="iVU43UESfu23YqJ3QEYcUz31c84n" cm:type="ps:parent"><cm:target cm:id="io4wf2JJTss6wbtY3Y6OIuBo2Heg">./isUZlq8YDoJwJ_h9k</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="iExN5v1-_eH7oTl_pse3DY8ExDhfbz2_FseeXFN4E" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="iMPQ6YCuLhb0TMzw1lsGyRAQktKFNlckYZ8S7t0ks" cm:type="ps:datetime">2024/07/22 2:20:27 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iJihbaqRQV7P6qe-_I4_FTl8_DN8ppJse5UHOJiq0" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="i6-UlGivfzwBg2DJO-_zMrelYLjcWcGs01n8pZSuL" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="iIy3D9_dG9FZCntquSRTR9VkYCNZCaGcWnJQkdWKP" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="imJ0TK58FVRygLzURfrMjt0xvte4-dqURW8PQ2ngr" cm:type="ps:datetime">2024/07/22 2:09:45 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iO61DjITR299FntYmPQhXntEhFhw1LzfH1nJyz2Sl" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="iQQlYbaGO_pCxSRUBJ4UBuv6-Rk-potdaMPENYm6o" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="i9J1m4J5VsoHXQBi9" cm:mimetype="text/plain" cm:encoding="utf-8">中間結果を数値のみ表示</cm:mimedesc>
+</cm:vname>
+</cm:element>
+<cm:element cm:id="iEs2tboEAE36qZxq6" cm:name="Formula" cm:type="ps:feature" cm:class="ps:feature"><cm:relations cm:id="i8aQePmChVoVR4OOflgaSbHSmCrk" cm:class="ps:parents"><cm:relation cm:id="i_XSzmvxkVSunaXM164O__Mjhizc" cm:type="ps:parent"><cm:target cm:id="iJQCCAohJzhnLLLg2T-mQj-LIIZk">./isUZlq8YDoJwJ_h9k</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="i1T9_rezwDhC3Lj1D1n0ThXSRksFxls7Uwvqu_F5U" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="iQ6v1TRjcr08_8pntsKdWsuG4TBRQY8R6ruNjMPG4" cm:type="ps:datetime">2024/07/22 2:13:10 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="i8VZSP6QA0TjskcYCqKaaMPK55EteEhy2AMG4vvCx" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="i2TFNJOENZm09kYS7F3JyQANjHyDNRQ7oisC3dapZ" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="idGdGAMDNuLjs0DksufYCcqM5JiTBM5iI8_PQPQgX" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="i9_KPpJ7-r0SlCxSRmtCx19vvAMfXgr6-tK7UeXod" cm:type="ps:datetime">2024/07/22 2:11:33 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="ixvA2JiyMu1vfufksqu_pvfyMs0qeH4Mj_pZCfrOk" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="inZHOcGgby24Ugb8VxL__8p9VH4teKPtKbGgb-F9V" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="i0eZYnpLcmzSj2nf1" cm:mimetype="text/plain" cm:encoding="utf-8">中間結果を数式で表示</cm:mimedesc>
+</cm:vname>
+</cm:element>
+<cm:element cm:id="i5EJBvSHx0OCXbkTm" cm:name="Sentence" cm:type="ps:feature" cm:class="ps:feature"><cm:relations cm:id="itOxw0izfvZq-cfK3sYTCqvXssVf" cm:class="ps:parents"><cm:relation cm:id="ioleKBM_RQEEMrsXRZ1SaYWzAwKh" cm:type="ps:parent"><cm:target cm:id="idn9RN7Bdd2fKwgY7ukkiTjATRMj">./isUZlq8YDoJwJ_h9k</cm:target>
+</cm:relation>
+</cm:relations>
+<cm:properties><cm:property cm:id="iO62DtehbO6z2RQDN1nUBebs0qeywuLcaZCzMeXs0" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Changed"><cm:constant cm:id="iSlzg7EcGF3E3_VNPcWsu0Tw1PQvvdqSRSRDNOAlY" cm:type="ps:datetime">2024/07/22 2:12:37 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="iMPfbfHKzebot5UNjCx-_Hi0ns0bGoZMz9VwL6Esu" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:ChangedBy"><cm:constant cm:id="iod4UmtE3ic6oZC-_aaruQQ09Ulu1PQlsFNv1Ljpt" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+<cm:property cm:id="iwfba4-U7Y8IindUBsejYlY2n2D5UmtW8aq5EteTl" cm:type="ps:datetime" cm:fixed="true" cm:readonly="true" cm:name="ps:Created"><cm:constant cm:id="iE3ZmJyrufblccWgbfXaqv1gHAgH4PQfXywUlZ8y2" cm:type="ps:datetime">2024/07/22 2:12:37 UTC</cm:constant>
+</cm:property>
+<cm:property cm:id="i-FxfJimtC3nZ4o3TnZlsTRpJCN7o9_8_19Q69_VR" cm:type="ps:string" cm:fixed="true" cm:readonly="true" cm:name="ps:Source"><cm:constant cm:id="irusecGP6dG3nv1KP29N5I4Kzis6ojs1T4UcGNzgb" cm:type="ps:string">21683936</cm:constant>
+</cm:property>
+</cm:properties>
+<cm:vname><cm:mimedesc cm:id="i2qpud8jLWy4fTQKL" cm:mimetype="text/plain" cm:encoding="utf-8">中間結果を文章で表示</cm:mimedesc>
+</cm:vname>
+</cm:element>
+</cm:elements>
+</cm:consulmodel>
